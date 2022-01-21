@@ -1,0 +1,37 @@
+html {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1,h2 {
+    color: white;
+}
+
+.mainheader {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.gray {
+    color: gray;
+}
+
+.subtext {
+    size: 21px;
+}
+
+.section-title {
+    font-weight: 300;
+    size: 42px;
+}
+
+.copyright {
+    text-align: right;
+    color: 
+}
